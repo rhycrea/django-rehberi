@@ -1,0 +1,10 @@
+{% extends 'gabari.html' %}
+{% block content %}
+{% for urun in urunler %}
+        <div class="jumbotron">
+            <h1>{{ urun.isim }}</h1>
+            <p>Fiyat: {{ urun.fiyat }}TL</p>
+            <p>Açıklama: {{ urun.aciklama}}</p>
+        </div>
+{% endfor %}
+{% endblock content %}

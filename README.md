@@ -1,6 +1,6 @@
 # django-rehberi
 
-Anlatım: [rehber.pdf](https://github.com/rhycrea/django-rehberi/blob/master/rehber.pdf)
+### Anlatım: [rehber.pdf](https://github.com/rhycrea/django-rehberi/blob/master/rehber.pdf)
 
 Django çatısını kullanarak hızlı, esnek ve düşük maliyetli(çabuk) web sitesi geliştirmeyi öğrenmek isteyenler için başlangıç seviyesinde bir rehber hazırladık. Bu rehber Hacettepe Üniversitesi Web Servisleri dersi kapsamında hazırlanmıştır. Umarız faydalı olur. 
 

@@ -5,9 +5,5 @@ Django çatısını kullanarak hızlı, esnek ve düşük maliyetli(çabuk) web 
 Bu github dizininde gördüğünüz proje, Django'nun daha iyi anlaşılabilmesi için [rehber.pdf](https://github.com/rhycrea/django-rehberi/blob/master/rehber.pdf) belgesinde adım adım yaptığımız uygulamanın son halidir.
 
 Hazırlayanlar:
-- Oğuz Özsancaktar.
-- Aybars Yüksel.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+- [Oğuz Özsancaktar](https://github.com/oozsancaktar).
+- [Aybars Yüksel](mailto://aybars.yuksel@protonmail.com).
